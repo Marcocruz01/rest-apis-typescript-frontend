@@ -1,4 +1,4 @@
-# Frontend para API REST de Productos
+# FrontEnd para API REST de Productos
 
 Este repositorio contiene el código fuente del frontend de la aplicación de gestión de productos, diseñada para interactuar con la API REST del proyecto.
 el cual usamos un stack PERN (PostgreSQL, Express, React, Node.js), te permite crear nuevos productos, editar la información de algun producto o eliminar productos.
